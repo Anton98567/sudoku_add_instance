@@ -18,6 +18,16 @@
 
 Ключи клиентов сохраняются в `/etc/sudoku/instances/<name>.env`, чтобы ссылки можно было перегенерировать позже (`--list`).
 
+## Установка
+
+Установка скрипта сперва командой на Ubuntu 24.04:
+
+```bash
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/SUDOKU-ASCII/easy-install/main/install.sh)"
+```
+
+Ссылка на проект: https://github.com/SUDOKU-ASCII/easy-install#english
+
 ## Использование
 
 ```bash
